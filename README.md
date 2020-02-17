@@ -1,5 +1,5 @@
 # PyrNet
-This repo contains the source codes implemented to run the experiments for **person re-identification** used within the paper: ["*Aggregating Deep Pyramidal Representations for Person Re-Idenfitication*"](regating_Deep_Pyramidal_Representations_for_Person_Re-Identification_CVPRW_201…), published in International Conference on Computer Vision and Pattern Recognition - Workshop on Target Re-identification and Multi-Target Multi-Camera Tracking, 2019.
+This repo contains the source codes implemented to run the experiments for **person re-identification** used within the paper: ["*Aggregating Deep Pyramidal Representations for Person Re-Idenfitication*"](http://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Martinel_Aggregating_Deep_Pyramidal_Representations_for_Person_Re-Identification_CVPRW_2019_paper.pdf), published in International Conference on Computer Vision and Pattern Recognition - Workshop on Target Re-identification and Multi-Target Multi-Camera Tracking, 2019.
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/aggregating-deep-pyramidal-representations/person-re-identification-on-dukemtmc-reid)](https://paperswithcode.com/sota/person-re-identification-on-dukemtmc-reid?p=aggregating-deep-pyramidal-representations)
 
