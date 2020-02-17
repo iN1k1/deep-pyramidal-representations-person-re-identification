@@ -1,5 +1,7 @@
 # PyrNet
-This repo contains the source codes implemented to run the experiments for **person re-identification** used within the paper: "*Aggregating Deep Pyramidal Representations for Person Re-Idenfitication*", published in International Conference on Computer Vision and Pattern Recognition - Workshop on Target Re-identification and Multi-Target Multi-Camera Tracking, 2019.
+This repo contains the source codes implemented to run the experiments for **person re-identification** used within the paper: ["*Aggregating Deep Pyramidal Representations for Person Re-Idenfitication*"](regating_Deep_Pyramidal_Representations_for_Person_Re-Identification_CVPRW_201…), published in International Conference on Computer Vision and Pattern Recognition - Workshop on Target Re-identification and Multi-Target Multi-Camera Tracking, 2019.
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/aggregating-deep-pyramidal-representations/person-re-identification-on-dukemtmc-reid)](https://paperswithcode.com/sota/person-re-identification-on-dukemtmc-reid?p=aggregating-deep-pyramidal-representations)
 
 # Data
 The repository does not contain the datasets. You can download a copy of the Market-1501 dataset from here: [Datasets](https://drive.google.com/file/d/1HfgS3HveeY74Jz5rnTIrKB1eH4AIGwHg/view?usp=sharing). Just extract the zip within the "data" folder. To make the scripts running with other datasets (e.g., Duke, CUHK, etc.), you can just copy the original files with the same "data" folder.
